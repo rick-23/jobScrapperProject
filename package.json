@@ -1,0 +1,20 @@
+{
+  "name": "jobscrapperproject",
+  "version": "1.0.0",
+  "description": "A job scrapper project built in JavaScript ecosystem.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Radha Krishnan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
